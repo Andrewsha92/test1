@@ -1,0 +1,8 @@
+ID - уникальный номер бага
+Title - название
+Steps to reproduce - шаги воспроизведения
+Expected result - ожидаемый результат
+Actual result - фактический результат
+Attach - вложение
+Ivironment - окружение
+
