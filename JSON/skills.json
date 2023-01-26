@@ -1,0 +1,6 @@
+{
+  "testing": "['functional','integration','exploratory',automation,'regression','non_functional']",
+  "tools": "['bash','sql','git','bug-tracking systems','postman','jmeter']",
+  "automation": "['jawa','python','js','c','c++','c#']",
+  "soft skills": "['communicated','','flexible','attentive','goal-oriented','team-player']"
+}
