@@ -1,8 +1,12 @@
-ID
-ACTION
-Expected result
-Status
-Comment
+ID: Y-562
+
+ACTION: during hovering to "create" button shows tooltip "create new file" 
+
+Expected result: the tooltip "create new file" is appeared
+
+Status: passed
+
+Comment: pay attention to the tooltip text
 
 
 
