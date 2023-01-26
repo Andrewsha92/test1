@@ -1,8 +1,14 @@
 {
-  'title' : 'заголовок'
-  'en' : 'окружение'
-  'str' : 'шаги воспроизведения'
-  'ar' : 'фактический результат'
-  'er': 'ожидаемый результат'
-  'at' : 'вложения'
+  "ID": "Y-176",
+  "Title": "User can use special symbols in registration form",
+  "Steps to reproduce": [
+    "go to link",
+    "fill in all the required fields",
+    "use special symbols for login field",
+    "click save button"
+  ],
+  "Expected result": "warning popup is appeared",
+  "Actual result": "registration is passed",
+  "Attach": "look the actual .png file",
+  "Environment": "test_environment"
 }
